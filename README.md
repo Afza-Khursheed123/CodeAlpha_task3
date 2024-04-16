@@ -2,7 +2,7 @@
 This Python script helps organize files in a specified directory based on their file extensions. It scans the directory and moves each file into a folder corresponding to its file extension.
 
 # How to Use
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/your-username/your-repository.git.
+Clone the Repository: Clone this repository to your local machine using git clone [https://github.com/your-username/your-repository.git](https://github.com/Afza-Khursheed123/CodeAlpha_task3.git).
 
 Navigate to the Directory: Open a terminal or command prompt window and navigate to the directory where you cloned the repository.
 
